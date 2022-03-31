@@ -1,4 +1,4 @@
-# convertisseur-de-pouces-en-centimètres
+# Convertisseur-de-pouces-en-centimètres
 
 Application pour convertir entre centimètres et pouces, développé en JavaScript.
 
